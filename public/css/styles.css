@@ -23,3 +23,8 @@ p a:hover{ color:#868e36; text-decoration:none;}
 
 #logoPan img#logo{position:absolute; top:0; left:19px}
 #logoPan img#slogan{position:absolute; top:25px; left:376px}
+/* HEADER */
+
+#header{width:685px; height:238px; background: url(../images/b_header.jpg) 0 0 no-repeat; position:relative;}
+
+#header img#slogan2{position:absolute; top:76px; left:19px}
